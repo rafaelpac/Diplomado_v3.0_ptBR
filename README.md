@@ -1,8 +1,6 @@
 # Diplomado_v3.0
-Diplomado v 3.0
-Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador
+Esta é uma tentativa de tradução para o português brasileiro (pt-BR) da versão 3.0 do livro do curso _Diplomado em Bitcoin_ lecionado pela Mi Primer Bitcoin em El Salvador, disponível em https://github.com/MiPrimerBitcoin/Diplomado_v3.0.
 
+Mi Primer Bitcoin ("Meu Primeiro Bitcoin") criou esse trabalho e o disponibilizou gratuitamente com licença Creative Commons. Esse trabalho tem licença de Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0).
 
-Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely available under Creative Commons. This work is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International.
-
-Mi Primer Bitcoin/ My First Bitcoin ha creado este trabajo y lo ha hecho disponible gratuitamente bajo Creative Commons. Este trabajo tiene licencia de Reconocimiento-No comercial-Sin obras derivadas 4.0 Internacional.
+Mi Primer Bitcoin ("My First Bitcoin") has created this work and has made it freely available under Creative Commons. This work is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International.
