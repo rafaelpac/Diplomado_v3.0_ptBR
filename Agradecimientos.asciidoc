@@ -20,23 +20,23 @@ Founder, Mi Primer Bitcoin
 
 September 7th, 2022
 
-**Agradecimientos**
 
-El Diplomado de Bitcoin ha sido un éxito rotundo y ha crecido más rápido de lo que nos hubiésemos podido imaginar. Nos gustaría dar crédito a todas aquellas personas maravillosas que nos han traído hasta aquí.
+**Agradecimentos**
 
-El equipo central del plan de estudios, la fuerza impulsora de este contenido es Dalia Platt, Gloriana Solano, Raúl Guirola y Robert Malka. Han trabajado incansablemente detrás del escenario durante meses, primero para crear esto con una seria escasez de tiempo y luego para seguir aprendiendo y mejorando. Sin estos cuatro, nada de esto habría sido posible. A lo largo del camino, ese grupo central ha contado con la ayuda de Giacomo Zucco, Pedro Solimano, María Andrée Maegli, Alejandro Machado, Gerson Martínez y Vriti Saraf. Gerardo Apostolo y Enrique Jubis, diseñadores de Activa, también hicieron un trabajo increíble.
+O curso _Diplomado em Bitcoin_ tem feito um tremendo sucesso e tem crescido mais rápido do que qualquer um poderia imaginar. Nós gostaríamos de dar crédito a todas as pessoas maravilhosas que nos trouxeram até aqui.
 
-La historia del Diplomado de Bitcoin comienza en febrero del 2022 en una reunión en La Pacheco, una escuela pública en San Marcos, El Salvador. Nos movimos rápido, recaudamos fondos de más de 400 donantes individuales, comenzamos las clases en abril y graduamos al primer grupo en junio.
+A equipe principal do plano de estudos, a força motora por trás deste conteúdo, é composta por Dalia Platt, Gloriana Solano, Raúl Guirola e Robert Malka. Eles trabalharam incansavelmente por trás das cenas durante meses, primeiro para criar tudo com sérias constrições de tempo e depois para continuar a aprender e melhorar. Sem esses quatro, nada disso teria acontecido. Ao longo do caminho, essa equipe principal foi ajudada várias vezes por Giacomo Zucco, Pedro Solimano, María Andrée Maegli, Alejandro Machado, Gerson Martinez e Vriti Saraf. Gerardo Apostolo e Enrique Jubis, designers da Activa, também fizeram um trabalho incrível.
 
-Los arquitectos de aquella reunión de febrero son también personajes imprescindibles en esta historia. El director de La Pacheco, Asael Rodríguez, estaba dedicado a preparar a sus alumnos para un mundo cambiante. El diputado Rodrigo Ayala, que ya apoyaba a La Pacheco, también reconoció la necesidad de la educación de Bitcoin. Carlos Toriello, creador de comunidades en IBEX Mercado, invitó a otros Bitcoiners, incluyéndome a mi, a venir a ver la escuela y conocer el plan de estudios.
+A história do _Diplomado em Bitcoin_ começa em fevereiro de 2022 em uma reunião em La Pacheco, uma escola pública em San Marcos, El Salvador. Nós nos movemos rápido, levantamos fundos de mais de 400 doadores individuais, começamos as aulas em abril e formamos a primeira turma em junho.
 
-Carlos e IBEX merecen su propia sección aquí. Ellos pusieron los fondos para que La Pacheco construyera una nueva cafetería, defendieron la causa, nos ayudaron a financiar el resto de los gastos y organizaron a gente de todo el mundo para que participara y fuera testigo de la primera promoción. El Diplomado de Bitcoin ahora existe en otros lugares y con otros patrocinadores, pero está construido a base del éxito del programa piloto en La Pacheco, y simplemente no habría ocurrido sin ellos.
+Os arquitetos daquela primeira reunião em fevereiro também são personagens imprescindíveis nesta história. O diretor da La Pacheco, Asael Rodríguez, estava dedicado a preparar seus alunos para um mundo em mudança. O deputado Rodrigo Ayala, que já apoiava a La Pacheco, também reconheceu a necessidade da educação em Bitcoin. Carlos Toriello, criador de comunidades na IBEX Mercado, convidou outros bitcoinheiros, incluindo eu, a virem ver a escola e conhecer o plano de estudos.
 
-Mi Primer Bitcoin es una organización sin fines de lucro con una misión singular: brindar educación imparcial y de calidad sobre Bitcoin a todos en El Salvador, y luego a través del mundo. Como la primera nación en adoptar Bitcoin, creemos que El Salvador puede ser un ejemplo de base. Nuestra visión es enseñar a una nación y cambiar el mundo. Sé que suena loco, pero creo que estamos en camino y el Diplomado de Bitcoin es una gran parte de eso.
+Carlos e a IBEX merecem sua própria seção aqui. Eles colocaram recursos para que a La Pacheco construísse uma nova lanchonete, defenderam a causa, nos ajudaram a financiar os outros gastos e organizaram para que pessoas do mundo todo participassem e fossem testemunhas da primeira formatura. O _Diplomado em Bitcoin_ agora existe em outros lugares e com outros patrocinadores, mas está fundado em cima do êxito do programa piloto na La Pacheco, e simplesmente não teria acontecido sem eles.
 
-Por un mundo mejor,
+Mi Primer Bitcoin ("Meu Primeiro Bitcoin") é uma organização sem fins lucrativos com uma única missão: prover educação sobre Bitcoin imparcial e de qualidade a todos em El Salvador, e então a todos no mundo. Sendo o primeiro país a adotar o Bitcoin, cremos que El Salvador pode ser um exemplo e que a base do sucesso será uma educação imparcial de qualidade. Nossa visão é ensinar uma nação e mudar o mundo. Sei que isso parece loucura, mas acredito que estamos no caminho certo e o _Diplomado em Bitcoin_ é uma grande parte disso.
+
+Por um mundo melhor,
 
 John Dennehy
 
 Fundador, Mi Primer Bitcoin
-
